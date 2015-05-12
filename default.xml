@@ -9,12 +9,12 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="build" name="MiCode/patchrom_build">
+  <project path="build" name="AuzOne/patchrom_build">
     <copyfile src="makefile" dest="Makefile" />
   </project>
-  <project path="manifest" name="MiCode/patchrom" />
-  <project path="android" name="MiCode/patchrom_android" />
-  <project path="miui" name="MiCode/patchrom_miui" />
-  <project path="tools" name="MiCode/patchrom_tools"/>
-  <!--project path="nexus5" name="MiCode/patchrom_nexus5" /-->
+  <project path="manifest" name="AuzOne/patchrom" />
+  <project path="android" name="AuzOne/patchrom_android" />
+  <project path="miui" name="AuzOne/patchrom_miui" />
+  <project path="tools" name="AuzOne/patchrom_tools"/>
+  <!--project path="nexus5" name="AuzOne/patchrom_nexus5" /-->
 </manifest>
