@@ -16,5 +16,5 @@
   <project path="android" name="AuzOne/patchrom_android" />
   <project path="miui" name="AuzOne/patchrom_miui" />
   <project path="tools" name="AuzOne/patchrom_tools" />
-  <project path="gnote_CM" name="AuzOne/patchrom-gnote-CM" />
+  <project path="gnote_CM" name="AuzOne/patchrom-gnote-CM" revision="kitkat" />
 </manifest>
